@@ -7,19 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/aryosuke_" target="blank"><img src="https://img.shields.io/twitter/follow/aryosuke_?logo=twitter&style=for-the-badge" alt="aryosuke_" /></a> </p>
 
-- 🔭 I’m currently working on [Gameloft Indonesia](Asphalt 8,9 Disney magic kingdom)
+- 🔭 I’m currently working on [Gameloft Indonesia] on Project:
 
-- 🌱 - **-**
+- Ashpalt 8
 
-- 👯 - [-](-)
+- Ashpalt 9
 
-- 🤝 - [-](-)
+- Disney Magic Kingdom
 
-- 💬 - **-**
+- My Little Pony
 
-- 📫 - **-**
+- Sniper Fury
 
-- - **-**
+- Dragon Mania Legends
+
+- March of Empires
+
+- Minion Rush : Despicable Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
